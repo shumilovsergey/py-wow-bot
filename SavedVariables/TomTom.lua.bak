@@ -1,0 +1,19 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Лауренций - Soulseeker x1 - 3.3.5a+"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = {
+	["profileKeys"] = {
+		["Лауренций - Soulseeker x1 - 3.3.5a+"] = "Лауренций - Soulseeker x1 - 3.3.5a+",
+	},
+	["profiles"] = {
+		["Лауренций - Soulseeker x1 - 3.3.5a+"] = {
+		},
+	},
+}
